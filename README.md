@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Dip Mandal</h1>
-[![MasterHead](https://github.com/dipmandal353/Dip/blob/main/gif/readme%20banner.jpg)](https://github.com/dipmandal353)
+[![Head]<img src="https://github.com/dipmandal353/Dip/blob/main/gif/readme%20banner.jpg" width="30px" height="60px">](https://github.com/dipmandal353)
+
 
 ## 👨🏻‍💻 About Me:
 

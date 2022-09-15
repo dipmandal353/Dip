@@ -43,6 +43,7 @@
 
 ## ❤️ Let's get connected:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 

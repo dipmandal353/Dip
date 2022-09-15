@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Dip Mandal</h1>
-<img src="https://github.com/dipmandal353/Dip/blob/main/gif/readme%20banner.jpg">
+<img src="https://github.com/dipmandal353/Dip/blob/main/gif/readme%20banner.jpg" align="center">
 
 
 ## 👨🏻‍💻 About Me:

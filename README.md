@@ -23,10 +23,10 @@
 
 
 ## 🛠️ Technologies and Tools I use:
-<p>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-</p>
+
 
 ## ❤️ Let's get connected:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dip-mandal-159597246/)

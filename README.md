@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Dip Mandal</h1>
-[![MasterHead](https://wallpaperaccess.com/full/8108707.png)]
+[![MasterHead]()]
 
 ## 👨🏻‍💻 About Me:
 
@@ -7,7 +7,7 @@
 
 - 🙋‍♂️ All about me is at **[My Website](Comming Soon)**
 
-- 🔭 I’m currently a Student at `Techno India College Of Technology`.
+- 🔭 I’m currently a Student at `Techno India College Of Technology`
 
 - 🌱 I’m currently learning `Study & Development`
 

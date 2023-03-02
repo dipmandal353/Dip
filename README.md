@@ -11,7 +11,7 @@
 
 <img  src="https://github.com/dipmandal353/Dip/blob/main/gif/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](Comming Soon)**
+- 🙋‍♂️ All about me is at **https://dipmandal.netlify.app/**
 
 - 🔭 I’m currently a Student at `Techno India College Of Technology`
 

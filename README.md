@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently studying MCA at `RCC Institute of Information Technology`
 
-- 🔭 I was a Student at `Techno India College Of Technology`
+- 🔭 I have completed BCA from `Techno India College Of Technology`
 
 - 🌱 I’m currently learning `Study & Development`
 

@@ -13,7 +13,9 @@
 
 - 🙋‍♂️ All about me is at **https://dipmandal.netlify.app/**
 
-- 🔭 I’m currently a Student at `Techno India College Of Technology`
+- 🔭 I’m currently studying MCA at `RCC Institute of Information Technology`
+
+- 🔭 I was a Student at `Techno India College Of Technology`
 
 - 🌱 I’m currently learning `Study & Development`
 
